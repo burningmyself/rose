@@ -7,7 +7,7 @@ spring:
       name: rose
       password: rose
   application:
-    name: center-rose
+    name: roseeureka
   cloud:
     config:
       enabled: false
@@ -16,7 +16,7 @@ spring:
 # 类似的 redis 使用rose-redis ,gateway 换成 rose-gateway
 eureka:
   instance:
-    hostname: center-rose
+    hostname: roseeureka
     prefer-ip-address: true
   client:
     register-with-eureka: false
