@@ -83,3 +83,9 @@ upload
 /roseeureka/.mvn
 /roseconfig/.mvn
 /rosezuul/.mvn
+/roseconfig/mvnw
+/roseconfig/mvnw.cmd
+/roseeureka/mvnw
+/roseeureka/mvnw.cmd
+/rosezuul/mvnw
+/rosezuul/mvnw.cmd
