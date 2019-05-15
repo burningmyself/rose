@@ -13,7 +13,7 @@ spring:
         native:
           search-locations: classpath:/config/
         git:
-          uri:
+          uri: https://github.com/burningmyself/rose.git
           username: 928881525@qq.com
           password: yd901020
           search-paths: config
