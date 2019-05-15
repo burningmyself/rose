@@ -2,7 +2,7 @@ server:
   port: 8080
 spring:
   application:
-    name: rose-zuul
+    name: rosezuul
   # 配置中心
   cloud:
     config:
